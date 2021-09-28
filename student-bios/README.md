@@ -1,3 +1,3 @@
-# Student Bios
+# A little about me
 
-A little bio of each student.
+Hey everyone, my name is Ashenafi. I'm a web development and programming enthusiast. I have Electrical Engineering and microelectronics background.
