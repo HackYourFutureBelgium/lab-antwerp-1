@@ -1,5 +1,5 @@
 ---
-name: student bio
+name: Ashenafi Kebede
 about: A template PR for student bios
 title: "Ashenafi Kebede: bio"
 labels: student-bio
