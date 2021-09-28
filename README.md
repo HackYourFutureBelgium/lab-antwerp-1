@@ -1,12 +1,11 @@
 <!-- BEGIN HEADER -->
 
-
 # lab-antwerp-1
 
-> - [Issues](https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues): [`help-wanted`](https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aopen+label%3Ahelp-wanted), [`question`](https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aopen+label%3Aquestion)
+> - [Issues](https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues):
+>   [`help-wanted`](https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aopen+label%3Ahelp-wanted),
+>   [`question`](https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aopen+label%3Aquestion)
 > - [Deliverables](https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1)
-
-
 
 <!-- END HEADER -->
 
@@ -18,7 +17,6 @@ Slack is great for chatting but links and good explanations can easily get lost
 in message history. Think of this repository as your class' forum and home page.
 
 <!-- BEGIN TOC -->
-
 
 - [Modules](#modules)
 - [Students](#students)
@@ -35,12 +33,12 @@ in message history. Think of this repository as your class' forum and home page.
   - [GitHub](https://github.com/hackyourfuturebelgium)
 - [Using this Repo](#using-this-repo)
 
-
 <!-- END TOC -->
 
 ---
 
 <!-- BEGIN MODULES -->
+
 ## Modules
 
   <ol start="1">
@@ -59,8 +57,8 @@ in message history. Think of this repository as your class' forum and home page.
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/final-project" style="display: inline">final-project</a></h3>  <ul><li><p>    4 chapters    | <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=label%3Adeliverable+milestone%3Afinal-project">deliverables</a>    | <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=milestone%3Afinal-project+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/milestone/13">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/final-project">materials</a>  </p></li></ul></li>
 </ol><br>
 
-
 [TOP](#lab-antwerp-1)
+
 <!-- END MODULES -->
 
 ---
@@ -77,7 +75,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/samedsay.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Asamedsay">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Asamedsay+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Asamedsay+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Asamedsay">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Asamedsay+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Asamedsay">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Asamedsay">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Asamedsay+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Asamedsay">commented</a></li>
-        <li>github: <a href="https://github.com/samedsay">samedsay</a></li>
+        <li>github: <a href="https://github.com/samedsay">samedsay</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-samedsay">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -88,7 +86,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/aviv82.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Aaviv82">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Aaviv82+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Aaviv82+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aaviv82">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aaviv82+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aaviv82">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aaviv82">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aaviv82+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aaviv82">commented</a></li>
-        <li>github: <a href="https://github.com/aviv82">aviv82</a></li>
+        <li>github: <a href="https://github.com/aviv82">aviv82</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-aviv82">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -99,7 +97,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/Darin-Hamouda.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3ADarin-Hamouda">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3ADarin-Hamouda+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3ADarin-Hamouda+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3ADarin-Hamouda">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3ADarin-Hamouda+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3ADarin-Hamouda">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3ADarin-Hamouda">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3ADarin-Hamouda+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3ADarin-Hamouda">commented</a></li>
-        <li>github: <a href="https://github.com/Darin-Hamouda">Darin-Hamouda</a></li>
+        <li>github: <a href="https://github.com/Darin-Hamouda">Darin-Hamouda</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-Darin-Hamouda">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -110,7 +108,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/dawit263.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Adawit263">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Adawit263+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Adawit263+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Adawit263">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Adawit263+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Adawit263">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Adawit263">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Adawit263+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Adawit263">commented</a></li>
-        <li>github: <a href="https://github.com/dawit263">dawit263</a></li>
+        <li>github: <a href="https://github.com/dawit263">dawit263</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-dawit263">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -121,7 +119,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/edualfaro.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Aedualfaro">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Aedualfaro+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Aedualfaro+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aedualfaro">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aedualfaro+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aedualfaro">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aedualfaro">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aedualfaro+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aedualfaro">commented</a></li>
-        <li>github: <a href="https://github.com/edualfaro">edualfaro</a></li>
+        <li>github: <a href="https://github.com/edualfaro">edualfaro</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-edualfaro">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -132,7 +130,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/Levaii.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3ALevaii">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3ALevaii+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3ALevaii+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3ALevaii">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3ALevaii+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3ALevaii">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3ALevaii">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3ALevaii+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3ALevaii">commented</a></li>
-        <li>github: <a href="https://github.com/Levaii">Levaii</a></li>
+        <li>github: <a href="https://github.com/Levaii">Levaii</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-Levaii">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -143,7 +141,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/krakla.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Akrakla">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Akrakla+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Akrakla+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Akrakla">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Akrakla+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Akrakla">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Akrakla">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Akrakla+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Akrakla">commented</a></li>
-        <li>github: <a href="https://github.com/krakla">krakla</a></li>
+        <li>github: <a href="https://github.com/krakla">krakla</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-krakla">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -154,7 +152,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/mauricemat.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Amauricemat">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Amauricemat+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Amauricemat+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Amauricemat">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Amauricemat+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Amauricemat">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Amauricemat">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Amauricemat+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Amauricemat">commented</a></li>
-        <li>github: <a href="https://github.com/mauricemat">mauricemat</a></li>
+        <li>github: <a href="https://github.com/mauricemat">mauricemat</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-mauricemat">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -165,7 +163,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/mniyomukiza.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Amniyomukiza">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Amniyomukiza+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Amniyomukiza+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Amniyomukiza">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Amniyomukiza+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Amniyomukiza">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Amniyomukiza">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Amniyomukiza+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Amniyomukiza">commented</a></li>
-        <li>github: <a href="https://github.com/mniyomukiza">mniyomukiza</a></li>
+        <li>github: <a href="https://github.com/mniyomukiza">mniyomukiza</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-mniyomukiza">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -176,7 +174,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/mohammedlouzon.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Amohammedlouzon">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Amohammedlouzon+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Amohammedlouzon+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Amohammedlouzon">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Amohammedlouzon+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Amohammedlouzon">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Amohammedlouzon">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Amohammedlouzon+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Amohammedlouzon">commented</a></li>
-        <li>github: <a href="https://github.com/mohammedlouzon">mohammedlouzon</a></li>
+        <li>github: <a href="https://github.com/mohammedlouzon">mohammedlouzon</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-mohammedlouzon">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -187,7 +185,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/sannesofie.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Asannesofie">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Asannesofie+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Asannesofie+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Asannesofie">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Asannesofie+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Asannesofie">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Asannesofie">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Asannesofie+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Asannesofie">commented</a></li>
-        <li>github: <a href="https://github.com/sannesofie">sannesofie</a></li>
+        <li>github: <a href="https://github.com/sannesofie">sannesofie</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-sannesofie">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -198,7 +196,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/tahminarasoli.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Atahminarasoli">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Atahminarasoli+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Atahminarasoli+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Atahminarasoli">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Atahminarasoli+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Atahminarasoli">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Atahminarasoli">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Atahminarasoli+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Atahminarasoli">commented</a></li>
-        <li>github: <a href="https://github.com/tahminarasoli">tahminarasoli</a></li>
+        <li>github: <a href="https://github.com/tahminarasoli">tahminarasoli</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-tahminarasoli">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -209,7 +207,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/AlinaTaoRao.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3AAlinaTaoRao">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3AAlinaTaoRao+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3AAlinaTaoRao+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AAlinaTaoRao">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AAlinaTaoRao+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AAlinaTaoRao">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AAlinaTaoRao">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AAlinaTaoRao+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AAlinaTaoRao">commented</a></li>
-        <li>github: <a href="https://github.com/AlinaTaoRao">AlinaTaoRao</a></li>
+        <li>github: <a href="https://github.com/AlinaTaoRao">AlinaTaoRao</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-AlinaTaoRao">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -220,7 +218,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/ZakariaSallout.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3AZakariaSallout">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3AZakariaSallout+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3AZakariaSallout+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AZakariaSallout">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AZakariaSallout+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AZakariaSallout">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AZakariaSallout">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AZakariaSallout+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AZakariaSallout">commented</a></li>
-        <li>github: <a href="https://github.com/ZakariaSallout">ZakariaSallout</a></li>
+        <li>github: <a href="https://github.com/ZakariaSallout">ZakariaSallout</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-ZakariaSallout">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -231,7 +229,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/omerjava.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Aomerjava">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Aomerjava+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Aomerjava+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aomerjava">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aomerjava+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aomerjava">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aomerjava">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aomerjava+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aomerjava">commented</a></li>
-        <li>github: <a href="https://github.com/omerjava">omerjava</a></li>
+        <li>github: <a href="https://github.com/omerjava">omerjava</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-omerjava">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -242,7 +240,7 @@ in message history. Think of this repository as your class' forum and home page.
        <li>about: <a href="./student-bios/denrique-alvarez.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Adenrique-alvarez">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Adenrique-alvarez+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Adenrique-alvarez+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Adenrique-alvarez">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Adenrique-alvarez+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Adenrique-alvarez">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Adenrique-alvarez">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Adenrique-alvarez+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Adenrique-alvarez">commented</a></li>
-        <li>github: <a href="https://github.com/denrique-alvarez">denrique-alvarez</a></li>
+        <li>github: <a href="https://github.com/denrique-alvarez">denrique-alvarez</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-denrique-alvarez">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -255,14 +253,15 @@ in message history. Think of this repository as your class' forum and home page.
 ---
 
 <!-- BEGIN COACHES -->
+
 ## Coaches
 
   <ul  style="list-style-type:none;">
 
 </ul><br>
 
-
 [TOP](#lab-antwerp-1)
+
 <!-- END COACHES -->
 
 ---
