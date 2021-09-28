@@ -1,7 +1,7 @@
 ---
-name: Ashenafi Kebede
+name: student bio
 about: A template PR for student bios
-title: "Ashenafi Kebede: bio"
+title: "Your Name: bio"
 labels: student-bio
 ---
 
