@@ -80,6 +80,39 @@ in message history. Think of this repository as your class' forum and home page.
   </td>
 </tr></table> </li>
 <li><table> <tr>
+  <td><img src='./admin/avatars/students/Rphoof.jpeg' height="150px" width="150px" alt='Rphoof avatar' /></td>
+  <td> <h3 display="inline">Afruzul haq RUPAM</h3>
+    <ul>
+       <li>about: <a href="./student-bios/Rphoof.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3ARphoof">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3ARphoof+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3ARphoof+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3ARphoof">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3ARphoof+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3ARphoof">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3ARphoof">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3ARphoof+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3ARphoof">commented</a></li>
+        <li>github: <a href="https://github.com/Rphoof">Rphoof</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-Rphoof">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/Ahmed-nasserallah.jpeg' height="150px" width="150px" alt='Ahmed-nasserallah avatar' /></td>
+  <td> <h3 display="inline">Ahmed Nasserallah</h3>
+    <ul>
+       <li>about: <a href="./student-bios/Ahmed-nasserallah.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3AAhmed-nasserallah">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3AAhmed-nasserallah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3AAhmed-nasserallah+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AAhmed-nasserallah">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AAhmed-nasserallah+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AAhmed-nasserallah">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AAhmed-nasserallah">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AAhmed-nasserallah+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AAhmed-nasserallah">commented</a></li>
+        <li>github: <a href="https://github.com/Ahmed-nasserallah">Ahmed-nasserallah</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-Ahmed-nasserallah">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/ashenafykebede.jpeg' height="150px" width="150px" alt='ashenafykebede avatar' /></td>
+  <td> <h3 display="inline">Ashenafi Weldie</h3>
+    <ul>
+       <li>about: <a href="./student-bios/ashenafykebede.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Aashenafykebede">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Aashenafykebede+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Aashenafykebede+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aashenafykebede">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aashenafykebede+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aashenafykebede">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aashenafykebede">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aashenafykebede+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aashenafykebede">commented</a></li>
+        <li>github: <a href="https://github.com/ashenafykebede">ashenafykebede</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-ashenafykebede">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./admin/avatars/students/aviv82.jpeg' height="150px" width="150px" alt='aviv82 avatar' /></td>
   <td> <h3 display="inline">Aviv Dror</h3>
     <ul>
@@ -87,6 +120,17 @@ in message history. Think of this repository as your class' forum and home page.
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aaviv82">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aaviv82+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aaviv82">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aaviv82">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aaviv82+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aaviv82">commented</a></li>
         <li>github: <a href="https://github.com/aviv82">aviv82</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-aviv82">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/denrique-alvarez.jpeg' height="150px" width="150px" alt='denrique-alvarez avatar' /></td>
+  <td> <h3 display="inline">Daniel Álvarez</h3>
+    <ul>
+       <li>about: <a href="./student-bios/denrique-alvarez.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Adenrique-alvarez">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Adenrique-alvarez+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Adenrique-alvarez+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Adenrique-alvarez">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Adenrique-alvarez+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Adenrique-alvarez">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Adenrique-alvarez">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Adenrique-alvarez+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Adenrique-alvarez">commented</a></li>
+        <li>github: <a href="https://github.com/denrique-alvarez">denrique-alvarez</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-denrique-alvarez">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -157,6 +201,17 @@ in message history. Think of this repository as your class' forum and home page.
   </td>
 </tr></table> </li>
 <li><table> <tr>
+  <td><img src='./admin/avatars/students/Mervatabuamro.jpeg' height="150px" width="150px" alt='Mervatabuamro avatar' /></td>
+  <td> <h3 display="inline">Mervat Abuamro</h3>
+    <ul>
+       <li>about: <a href="./student-bios/Mervatabuamro.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3AMervatabuamro">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3AMervatabuamro+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3AMervatabuamro+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AMervatabuamro">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AMervatabuamro+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AMervatabuamro">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AMervatabuamro">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AMervatabuamro+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AMervatabuamro">commented</a></li>
+        <li>github: <a href="https://github.com/Mervatabuamro">Mervatabuamro</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-Mervatabuamro">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./admin/avatars/students/mniyomukiza.jpeg' height="150px" width="150px" alt='mniyomukiza avatar' /></td>
   <td> <h3 display="inline">Micky Niyomukiza</h3>
     <ul>
@@ -168,6 +223,17 @@ in message history. Think of this repository as your class' forum and home page.
   </td>
 </tr></table> </li>
 <li><table> <tr>
+  <td><img src='./admin/avatars/students/MJGoharriz.jpeg' height="150px" width="150px" alt='MJGoharriz avatar' /></td>
+  <td> <h3 display="inline">Mohammadjavad Goharriz</h3>
+    <ul>
+       <li>about: <a href="./student-bios/MJGoharriz.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3AMJGoharriz">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3AMJGoharriz+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3AMJGoharriz+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AMJGoharriz">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AMJGoharriz+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AMJGoharriz">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AMJGoharriz">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AMJGoharriz+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AMJGoharriz">commented</a></li>
+        <li>github: <a href="https://github.com/MJGoharriz">MJGoharriz</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-MJGoharriz">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./admin/avatars/students/mohammedlouzon.jpeg' height="150px" width="150px" alt='mohammedlouzon avatar' /></td>
   <td> <h3 display="inline">Mohammed Luthon</h3>
     <ul>
@@ -175,6 +241,39 @@ in message history. Think of this repository as your class' forum and home page.
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Amohammedlouzon">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Amohammedlouzon+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Amohammedlouzon">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Amohammedlouzon">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Amohammedlouzon+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Amohammedlouzon">commented</a></li>
         <li>github: <a href="https://github.com/mohammedlouzon">mohammedlouzon</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-mohammedlouzon">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/HansMbua.jpeg' height="150px" width="150px" alt='HansMbua avatar' /></td>
+  <td> <h3 display="inline">Muwa Mbua</h3>
+    <ul>
+       <li>about: <a href="./student-bios/HansMbua.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3AHansMbua">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3AHansMbua+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3AHansMbua+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AHansMbua">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AHansMbua+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AHansMbua">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AHansMbua">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AHansMbua+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AHansMbua">commented</a></li>
+        <li>github: <a href="https://github.com/HansMbua">HansMbua</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-HansMbua">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/Nefn-Lakhouj.jpeg' height="150px" width="150px" alt='Nefn-Lakhouj avatar' /></td>
+  <td> <h3 display="inline">Nefn Lakhouj</h3>
+    <ul>
+       <li>about: <a href="./student-bios/Nefn-Lakhouj.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3ANefn-Lakhouj">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3ANefn-Lakhouj+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3ANefn-Lakhouj+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3ANefn-Lakhouj">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3ANefn-Lakhouj+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3ANefn-Lakhouj">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3ANefn-Lakhouj">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3ANefn-Lakhouj+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3ANefn-Lakhouj">commented</a></li>
+        <li>github: <a href="https://github.com/Nefn-Lakhouj">Nefn-Lakhouj</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-Nefn-Lakhouj">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/omerjava.jpeg' height="150px" width="150px" alt='omerjava avatar' /></td>
+  <td> <h3 display="inline">Ömer Faruk Kala</h3>
+    <ul>
+       <li>about: <a href="./student-bios/omerjava.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Aomerjava">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Aomerjava+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Aomerjava+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aomerjava">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aomerjava+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aomerjava">commented</a></li>
+        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aomerjava">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aomerjava+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aomerjava">commented</a></li>
+        <li>github: <a href="https://github.com/omerjava">omerjava</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-omerjava">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -219,28 +318,6 @@ in message history. Think of this repository as your class' forum and home page.
         <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3AZakariaSallout">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3AZakariaSallout+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3AZakariaSallout">commented</a></li>
         <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3AZakariaSallout">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3AZakariaSallout+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3AZakariaSallout">commented</a></li>
         <li>github: <a href="https://github.com/ZakariaSallout">ZakariaSallout</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-ZakariaSallout">private repo</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./admin/avatars/students/omerjava.jpeg' height="150px" width="150px" alt='omerjava avatar' /></td>
-  <td> <h3 display="inline">Ömer Faruk Kala</h3>
-    <ul>
-       <li>about: <a href="./student-bios/omerjava.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Aomerjava">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Aomerjava+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Aomerjava+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Aomerjava">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Aomerjava+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Aomerjava">commented</a></li>
-        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Aomerjava">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Aomerjava+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Aomerjava">commented</a></li>
-        <li>github: <a href="https://github.com/omerjava">omerjava</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-omerjava">private repo</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./admin/avatars/students/denrique-alvarez.jpeg' height="150px" width="150px" alt='denrique-alvarez avatar' /></td>
-  <td> <h3 display="inline">Daniel Álvarez</h3>
-    <ul>
-       <li>about: <a href="./student-bios/denrique-alvarez.md" target="_blank">bio</a>,      <a href="">home page</a>        </li>        <li>HYF: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/projects/1?card_filter_query=assignee%3Adenrique-alvarez">deliverables</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+author%3Adenrique-alvarez+label%3Acheck-in">check-ins</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=is%3Aissue+commenter%3Adenrique-alvarez+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=author%3Adenrique-alvarez">authored</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=assignee%3Adenrique-alvarez+is%3Aissue">assigned</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/issues?q=commenter%3Adenrique-alvarez">commented</a></li>
-        <li>PRs: <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=author%3Adenrique-alvarez">opened</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=reviewed-by%3Adenrique-alvarez+is%3Apr">reviewed</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1/pulls?q=commenter%3Adenrique-alvarez">commented</a></li>
-        <li>github: <a href="https://github.com/denrique-alvarez">denrique-alvarez</a>, <a href="https://github.com/HackYourFutureBelgium/lab-antwerp-1-denrique-alvarez">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
