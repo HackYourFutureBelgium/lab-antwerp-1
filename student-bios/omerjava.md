@@ -6,7 +6,7 @@ Currently, I live in Antwerp.
 
 ## Education
 
-I have studied Economics at Singapore Management University. I can speak English, Turkish and intermediate level Nederlands.
+I have studied Economics at Singapore Management University. I can speak English, Turkish and intermediate level Dutch.
 
 ## Interests
 
