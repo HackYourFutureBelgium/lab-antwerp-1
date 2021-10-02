@@ -1,5 +1,3 @@
 ## A little about me
 
-Hey everyone, my name is Ashenafi. I'm a web development and programming enthusiast. I have Electrical Engineering and Microelectronics Engineering background. I love to code and I have some expriences in programming.
-
-I have a good background of software and hardware programming !
+Hey everyone, my name is Ashenafi. I'm a web development and programming enthusiast. I have BSc in Electrical Engineering and MSc in Microelectronics Engineering. I love to code and I have some self-taught expriences in programming.
