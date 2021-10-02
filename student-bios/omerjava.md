@@ -1,4 +1,4 @@
-# Student Bio
+# Ömer: Bio
 
 My name is Ömer.    
 I'm from Turkey.   
