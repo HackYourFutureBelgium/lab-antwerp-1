@@ -1,4 +1,6 @@
-# About me
-## Hello Everyone !
-- Hey everyone, my name is Ashenafi. I'm a web development and programming enthusiast. 
-- I have BSc in Electrical Engineering and MSc in Microelectronics Engineering. I love to code and I have some self-taught expriences in programming.
+# My brief Bio
+
+## Greetings every one
+
+- My name is Ashenafi and I'm from Ethiopia.
+- I love coding ,nature and music.
