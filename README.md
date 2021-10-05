@@ -1,3 +1,12 @@
+---
+---
+
+> ## The class has moved to https://github.com/lab-antwerp-1/home
+
+---
+---
+
+
 <!-- BEGIN HEADER -->
 
 # lab-antwerp-1
