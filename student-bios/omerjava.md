@@ -10,4 +10,4 @@ I have studied Economics at Singapore Management University. I can speak English
 
 ## Interests
 
-I'm interested in HTML, CSS, Javascript, React, NodeJs and Java. I like to play football, badminton and chess.
+I'm interested in HTML, CSS, Javascript, React and NodeJs. I like to play football, badminton and chess.
