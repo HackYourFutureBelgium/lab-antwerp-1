@@ -1,7 +1,7 @@
 ---
 ---
 
-> ## The class has moved to https://github.com/lab-antwerp-1/home
+> # The class has moved to https://github.com/lab-antwerp-1/home
 
 ---
 ---
