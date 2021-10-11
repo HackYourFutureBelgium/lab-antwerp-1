@@ -1,7 +1,7 @@
 # Ömer: Bio
 
-My name is Ömer.    
-I'm from Turkey.   
+My name is Ömer.  
+I'm from Turkey.  
 Currently, I live in Antwerp.
 
 ## Education
